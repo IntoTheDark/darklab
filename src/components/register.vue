@@ -18,8 +18,8 @@ export default {
   name: 'register',
   data () {
     return {
-      videoWidth: 250,
-      videoHeight: 350,
+      videoWidth: 801,
+      videoHeight: 600,
       imgSrc: '',
       thisCancas: null,
       thisContext: null,
